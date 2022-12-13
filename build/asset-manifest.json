@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f955db0.css",
+    "main.js": "/static/js/main.2997f01d.js",
+    "static/media/ibukun.JPG": "/static/media/ibukun.669b2ff6e36c4f4961ef.JPG",
+    "static/media/linkedln-icon.svg": "/static/media/linkedln-icon.19612fdb23c98848437a9163121397e7.svg",
+    "index.html": "/index.html",
+    "main.0f955db0.css.map": "/static/css/main.0f955db0.css.map",
+    "main.2997f01d.js.map": "/static/js/main.2997f01d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f955db0.css",
+    "static/js/main.2997f01d.js"
+  ]
+}
